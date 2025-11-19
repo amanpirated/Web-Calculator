@@ -29,7 +29,7 @@ This project performs basic arithmetic operations and is designed to be clean, f
 ▶️ How to Run
 
 1.Download or clone this repo:
-      git clone https://github.com/your-username/web-calculator.git
+      git clone https://github.com/amanpirated/web-calculator.git
 2.Open the project folder.
 3.Double-click index.html to run it in your browser.
 No dependencies required.
